@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🚀 小火箭-Shadowrocket常见问题
 
 #### **1.没有节点？如何订阅？**
@@ -26,3 +40,6 @@
 
 <figure><img src="https://huohuo1.com/jc/doc/xios/gx.png" alt=""><figcaption></figcaption></figure>
 
+
+
+### wwww
