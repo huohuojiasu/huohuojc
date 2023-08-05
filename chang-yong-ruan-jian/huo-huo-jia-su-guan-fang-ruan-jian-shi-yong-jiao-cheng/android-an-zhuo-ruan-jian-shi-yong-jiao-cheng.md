@@ -1,4 +1,4 @@
-# 🌠 Android安卓软件使用教程
+# 🌟 Android安卓软件使用教程
 
 <mark style="color:red;">**安卓下载链接**</mark> ：[https://cowtransfer.com/s/add6ca628c6e47](https://cowtransfer.com/s/add6ca628c6e47)&#x20;
 
@@ -22,11 +22,11 @@
 
 
 
-**1.安装后打开如下。输入账号和密码登陆:**
+#### **1.安装后打开如下。输入账号和密码登陆:**
 
 <figure><img src="http://huohuo1.com/jc/android/1.png" alt=""><figcaption></figcaption></figure>
 
-**2.登录后点击连接即可。或者手动选择节点:初次使用会提示安装/创建VPN连接，点允许即可**
+#### **2.登录后点击连接即可。或者手动选择节点:初次使用会提示安装/创建VPN连接，点允许即可**
 
 ####
 
