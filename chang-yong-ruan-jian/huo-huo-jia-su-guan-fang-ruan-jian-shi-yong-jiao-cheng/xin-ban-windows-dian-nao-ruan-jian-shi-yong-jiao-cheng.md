@@ -12,7 +12,7 @@
 
 ####
 
-<figure><img src="http://huohuo1.com/jc/xwin/1.png" alt=""><figcaption><p>输入你在火火加速上注册的 账号，密码登</p></figcaption></figure>
+<figure><img src="https://huohuo1.com/jc/doc/xwin/1.png" alt=""><figcaption><p>输入你在火火加速上注册的 账号，密码登</p></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-<figure><img src="http://huohuo1.com/jc/xwin/2.png" alt=""><figcaption><p>购买订阅后。需要等几秒才会变成这样</p></figcaption></figure>
+<figure><img src="https://huohuo1.com/jc/doc/xwin/2.png" alt=""><figcaption><p>购买订阅后。需要等几秒才会变成这样</p></figcaption></figure>
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-<figure><img src="http://huohuo1.com/jc/xwin/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://huohuo1.com/jc/doc/xwin/3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **注意：**在不特需 全应用代理。不用开启<mark style="color:red;">**TUN代理**</mark>。因为开了 你使用国内软件会比较卡，费流量
