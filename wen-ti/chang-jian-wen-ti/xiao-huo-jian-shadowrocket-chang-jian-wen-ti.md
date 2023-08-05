@@ -12,14 +12,17 @@
 
 有了节点 也要选择相应的节点，<mark style="color:red;">**全局路由**</mark>**-选择-**<mark style="color:red;">**代理**</mark>。
 
-<figure><img src="https://huohuo1.com/jc/doc/xios/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://huohuo1.com/jc/doc/xios/2.2.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src="https://huohuo1.com/jc/doc/xios/1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 <figure><img src="https://huohuo1.com/jc/doc/xios/2.1.png" alt=""><figcaption></figcaption></figure>
 
 
 
-#### 3.连接上了 不能访问chatgpt  国际抖音
+#### 3.节点如何更新！
 
-chatgpt 用台湾 访问
+点击一下 红色圈圈哪儿 就更新了
 
-国际抖音手机上需要拔卡。选择台湾节点 日本节点即可。我们的美国节点需要拔卡还需要把中文设置成英文。
+<figure><img src="https://huohuo1.com/jc/doc/xios/gx.png" alt=""><figcaption></figcaption></figure>
+
